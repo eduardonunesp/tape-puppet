@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 const minimist = require('minimist')
 const pump = require('pump')
 const tapePuppet = require('./index.js')
